@@ -26,7 +26,7 @@
 }
 .header_div{
     display: flex;
-    background:#387456;
+    background: $point3;
     align-items: center;
     justify-content: space-around;
 }
@@ -34,6 +34,6 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background:#D9F0AB;
+    background: $point1;
     text-decoration: none;
 }
