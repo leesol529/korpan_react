@@ -1,0 +1,39 @@
+.logo{
+    width:25rem;
+}
+.left_logo{
+    width:40rem;
+}
+
+.right_logo{
+    width:40rem;
+}
+.logo_div{
+    display: flex;
+    width:50%;
+    padding-left:5rem;
+}
+.restaurantName{
+    font-size:10rem;
+    margin-bottom:0px;
+    margin-top:6rem;
+    color:white;
+}
+.desc{
+    margin-top:0px;
+    text-align: center;
+    color:white;
+}
+.header_div{
+    display: flex;
+    background:#387456;
+    align-items: center;
+    justify-content: space-around;
+}
+.menubar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background:#D9F0AB;
+    text-decoration: none;
+}
