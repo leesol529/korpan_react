@@ -32,3 +32,14 @@ sketch
 .history
 
 # End of https://www.gitignore.io/api/react,visualstudiocode
+config/env.js
+config/modules.js
+scripts/test.js
+scripts/start.js
+scripts/build.js
+config/webpackDevServer.config.js
+config/webpack.config.js
+config/pnpTs.js
+config/paths.js
+config/jest/fileTransform.js
+config/jest/cssTransform.js
