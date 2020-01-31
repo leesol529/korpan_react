@@ -1,0 +1,15 @@
+.navigation{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+.category{
+    text-decoration: none;
+    width:25vw;
+    text-align:center;
+    background:lightblue;
+    padding: 2rem 0 2rem 0;
+}
+.category:visited{
+    color:black;
+}

@@ -1,39 +1,28 @@
+.myheader{
+    background:#50c878;
+    height:10rem;
+}
 .logo{
-    width:25rem;
-}
-.left_logo{
-    width:40rem;
-}
-
-.right_logo{
-    width:40rem;
-}
-.logo_div{
     display: flex;
-    width:50%;
-    padding-left:5rem;
+    justify-content: center;
+    align-items:center;;
 }
-.restaurantName{
-    font-size:10rem;
-    margin-bottom:0px;
-    margin-top:6rem;
-    color:white;
+.left-line{
+    width:40vw;
 }
-.desc{
-    margin-top:0px;
+.restaurant_name{
+    width:20vw;
     text-align: center;
-    color:white;
+    font-size:5rem;
 }
-.header_div{
-    display: flex;
-    background: $point3;
-    align-items: center;
-    justify-content: space-around;
+.right-line{
+    width:40vw;
 }
-.menubar{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    background: $point1;
-    text-decoration: none;
+.introduce_restaurant{
+    text-align: center;
+}
+.lines{
+    height:1px;
+    background:white;
+    border:none;
 }
